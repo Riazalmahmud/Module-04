@@ -1,0 +1,42 @@
+*{padding: 0; margin: 0;}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: #F78567;
+    font-weight: 700;
+}
+.top-margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.top-bg{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    margin-left: 40px;
+    padding: 20px;
+}
+.half-width a {
+    background-image: linear-gradient(#f58157, #d3633a);
+    padding: 7px 40px;
+    text-transform: capitalize;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-top: 87px;
+    text-decoration: none;
+}
+.HIRE-ME{
+    margin-top: 20px;
+}
+.half-width img{
+    width: 90%;
+}
