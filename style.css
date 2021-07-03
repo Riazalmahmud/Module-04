@@ -25,7 +25,7 @@ h1 span{
     padding: 20px;
 }
 .half-width a {
-    background-image: linear-gradient(#f58157, #d3633a);
+    background-image: linear-gradient(#e78561, #c25128);
     padding: 7px 40px;
     text-transform: capitalize;
     font-size: 18px;
@@ -33,6 +33,7 @@ h1 span{
     font-weight: 700;
     margin-top: 87px;
     text-decoration: none;
+    border-radius: 10px;
 }
 .HIRE-ME{
     margin-top: 20px;
