@@ -26,7 +26,7 @@ h1 span{
     padding: 20px;
 }
 .half-width a {
-    background-image: linear-gradient(#e78561, #c25128);
+    background-image: linear-gradient(#ff9a75, #ff674a);
     padding: 7px 40px;
     text-transform: capitalize;
     font-size: 18px;
@@ -34,7 +34,7 @@ h1 span{
     font-weight: 700;
     margin-top: 87px;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .HIRE-ME{
     margin-top: 20px;
@@ -47,7 +47,47 @@ h1 span{
     background-repeat: no-repeat;
     background-position: right;
     background-position-y: 250px;
+    margin-bottom: 100px;
 }
 .dream-big-single{
     display: flex; 
+    overflow: hidden;
+}
+h2{
+    font-size: 40px;
+}
+.experience{
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position-y: 200px;
+}
+.experience-aria{
+    display: flex;
+    margin-top: 80px;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+.experience-aria .half-width {
+    box-shadow: 20px 1px 40px #888888;
+    margin-bottom: 100px;
+    padding-top: 80px;
+}
+#full-stack{
+    height: 300px;
+    border-left: 7px solid;
+    border-image: linear-gradient(#ff9e78, #ff6448);
+    border-image-slice: 1;
+}
+#baby-web{
+border-left: 7px solid;
+border-image: linear-gradient(#0026ff,#00f7ff);
+border-image-slice: 1;
+}
+.pinkcolor{
+    color: #F78567;
+    font-weight: 700;
+}
+footer p{
+    text-align: center;
+    margin-bottom: 20px;
 }
